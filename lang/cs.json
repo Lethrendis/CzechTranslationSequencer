@@ -31,8 +31,8 @@
         "SnapToGrid": "Přichytit k mřížce",
         "Rotation": "Rotace",
         "Randomize": "Náhodně",
-        "FadeIn": "Postupné objevení",
-        "FadeOut": "Postupné zmizení",
+        "FadeIn": "Zesílení",
+        "FadeOut": "Vymizení",
         "ScaleIn": "Zvětšit škálu",
         "ScaleOut": "Zmenšit škálu",
         "MirrorX": "Zrcadlit X",
@@ -48,7 +48,7 @@
         "DragBehavior": "Chování při tažení",
         "DragStretch": "Roztáhnout",
         "DragMove": "Přesunout",
-        "MoveSpeed": "Rychlost pohybu",
+        "MoveSpeed": "Rychl. poh.",
         "Preload": "Přednačíst",
         "AttachTo": "Připojit k výchozímu bodu",
         "StretchToAttach": "Připojit k cílovému bodu",
@@ -58,7 +58,7 @@
     "SidebarButtons": {
       "Select": "Vybrat efekt",
       "Play": "Přehrát efekt",
-      "Manager": "Zobrazit správce Sekvenceru",
+      "Manager": "Zobrazit Správce Sekvenceru",
       "Database": "Zobrazit databázi Sekvenceru"
     },
     "Hotkeys": {
@@ -86,7 +86,7 @@
     },
     "Sequences": {
       "Title": "Sekvence",
-      "NoSequences": "Žádné sekvence právě neběží",
+      "NoSequences": "Aktuálně žádné sekvence neběží",
       "AbortSequence": "Přerušit sekvenci",
       "AbortSection": "Přerušit část",
       "ClearFinished": "Vyčistit dokončené",
@@ -135,35 +135,35 @@
         "Label": "Otevřít prohlížeč databáze"
       },
       "EnablePixiFix": {
-        "Title": "Povolit opravu PIXI",
-        "Label": "Tato možnost opravuje problémy s průhledností u efektů Sekvenceru ve Foundry – některá prostředí (prohlížeče, hardware, software apod.) tuto opravu nepotřebují."
+        "Title": "Povolit opravu PIXI?",
+        "Label": "Tato možnost opravuje problémy s průhledností u efektů Sekvenceru ve Foundry. Některá prostředí (prohlížeče, hardware, software apod.) tuto opravu nepotřebují."
       },
       "EnableGlobalPixiFix": {
-        "Title": "Povolit globální opravu PIXI",
-        "Label": "Tato volba opravuje průhlednost u všech animovaných .webm souborů ve Foundry. Používej opatrně."
+        "Title": "Povolit globální opravu PIXI?",
+        "Label": "Tato volba opravuje průhlednost u všech animovaných .webm souborů ve Foundry. Používej raději opatrně."
       },
       "EnableAboveUIScreenspace": {
-        "Title": "Povolit vrstvu nad UI",
-        "Label": "Tato volba umožňuje přehrávat efekty nad všemi UI prvky ve Foundry – někteří uživatelé hlásí, že tato vrstva může způsobovat pokles výkonu, proto ji v případě potíží vypni."
+        "Title": "Povolit vrstvu nad UI?",
+        "Label": "Tato volba umožňuje přehrávat efekty nad všemi UI prvky ve Foundry. Někteří uživatelé hlásí, že tato vrstva může způsobovat pokles výkonu, proto ji v případě potíží vypni."
       },
       "Debug": {
-        "Title": "Povolit ladění",
-        "Label": "Sekvencer bude zapisovat do konzole, co právě dělá"
+        "Title": "Povolit ladění?",
+        "Label": "Sekvencer bude zapisovat do konzole, co právě dělá."
       },
       "ShowTools": {
-        "Title": "Zobrazit nástroje Sekvenceru",
+        "Title": "Zobrazit nástroje Sekvenceru?",
         "Label": "Zobrazí či skryje nástroje Sekvenceru v postranním panelu."
       },
       "ShowTokenTools": {
-        "Title": "Zobrazit nástroje Sekvenceru v ovládání tokenů",
+        "Title": "Zobrazit nástroje Sekvenceru v ovládání tokenů?",
         "Label": "Zobrazí nebo skryje nástroje Sekvenceru v panelu ovládání tokenů."
       },
       "EnableEffects": {
-        "Title": "Povolit efekty",
+        "Title": "Povolit efekty?",
         "Label": "Povolí přehrávání efektů na tomto klientovi"
       },
       "EnableSounds": {
-        "Title": "Povolit zvuky",
+        "Title": "Povolit zvuky?",
         "Label": "Povolí přehrávání zvuků na tomto klientovi"
       },
       "ExternalEffectOpacity": {
