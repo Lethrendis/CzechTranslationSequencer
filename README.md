@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Sequencer verze 3.6.7. Obsahuje př
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationSequencer/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationSequencer/Core12/module.json
 ```
 
 ## Autor
