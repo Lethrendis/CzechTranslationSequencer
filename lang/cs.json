@@ -2,7 +2,7 @@
   "SEQUENCER": {
     "OK": "OK",
     "Cancel": "Zrušit",
-    "PlayerPermissionsWarning": "Ahoj! Protože jsi GM, můžeš vytvářet efekty, ale ve výchozím nastavení <strong>to mohou i hráči</strong>. Pokud tomu tak nechceš, můžeš kliknutím na toto tlačítko nastavit oprávnění:",
+    "PlayerPermissionsWarning": "Ahoj! Protože jsi GM, můžeš vytvářet efekty, ale ve výchozím nastavení <strong>to mohou i hráči</strong>. Pokud si to nepřeješ, můžeš kliknutím na toto tlačítko nastavit oprávnění:",
     "Error": {
       "CouldNotPlay": "Nelze přehrát"
     },
@@ -136,35 +136,35 @@
       },
       "EnablePixiFix": {
         "Title": "Povolit opravu PIXI?",
-        "Label": "Tato možnost opravuje problémy s průhledností u efektů Sekvenceru ve Foundry. Některá prostředí (prohlížeče, hardware, software apod.) tuto opravu nepotřebují."
+        "Label": "Zaškrtnutí opravuje problémy s průhledností u efektů Sekvenceru ve Foundry. Některá prostředí (prohlížeče, hardware, software apod.) tuto opravu nepotřebují."
       },
       "EnableGlobalPixiFix": {
         "Title": "Povolit globální opravu PIXI?",
-        "Label": "Tato volba opravuje průhlednost u všech animovaných .webm souborů ve Foundry. Používej raději opatrně."
+        "Label": "Zaškrtnutí opravuje průhlednost všech animovaných .webm souborů ve Foundry. Používej raději opatrně."
       },
       "EnableAboveUIScreenspace": {
         "Title": "Povolit vrstvu nad UI?",
-        "Label": "Tato volba umožňuje přehrávat efekty nad všemi UI prvky ve Foundry. Někteří uživatelé hlásí, že tato vrstva může způsobovat pokles výkonu, proto ji v případě potíží vypni."
+        "Label": "Zaškrtnutí umožňuje přehrávat efekty nad všemi UI prvky ve Foundry. Někteří uživatelé hlásí, že tato vrstva může způsobovat pokles výkonu, proto ji v případě potíží vypni."
       },
       "Debug": {
         "Title": "Povolit ladění?",
-        "Label": "Sekvencer bude zapisovat do konzole, co právě dělá."
+        "Label": "Po zaškrtnutí bude Sekvencer zapisovat do konzole, co právě dělá."
       },
       "ShowTools": {
-        "Title": "Zobrazit nástroje Sekvenceru?",
-        "Label": "Zobrazí či skryje nástroje Sekvenceru v postranním panelu."
+        "Title": "Sekvencer v postranním panelu?",
+        "Label": "Zaškrtnutí zobrazí nástroje Sekvenceru v postranním panelu."
       },
       "ShowTokenTools": {
-        "Title": "Zobrazit nástroje Sekvenceru v ovládání tokenů?",
-        "Label": "Zobrazí nebo skryje nástroje Sekvenceru v panelu ovládání tokenů."
+        "Title": "Sekvencer v ovládání tokenů?",
+        "Label": "Zaškrtnutí zobrazí nástroje Sekvenceru v panelu ovládání tokenů."
       },
       "EnableEffects": {
         "Title": "Povolit efekty?",
-        "Label": "Povolí přehrávání efektů na tomto klientovi"
+        "Label": "Zaškrtnutí povolí přehrávání efektů na tomto klientovi."
       },
       "EnableSounds": {
         "Title": "Povolit zvuky?",
-        "Label": "Povolí přehrávání zvuků na tomto klientovi"
+        "Label": "Zaškrtnutí povolí přehrávání zvuků na tomto klientovi."
       },
       "ExternalEffectOpacity": {
         "Title": "Neprůhlednost externích efektů",
@@ -172,23 +172,23 @@
       },
       "Permission": {
         "EffectCreate": {
-          "Title": "Sekvencer: Přehrávání efektů",
+          "Title": "Přehrávání efektů",
           "Label": "Povolí hráčům s vybranou a vyšší rolí přehrávat efekty pomocí maker a Přehrávače Sekvenceru."
         },
         "EffectDelete": {
-          "Title": "Sekvencer: Odebrání všech efektů",
+          "Title": "Odebrání všech efektů",
           "Label": "Povolí hráčům s vybranou a vyšší rolí odebírat jakékoli efekty pomocí Správce Sekvenceru."
         },
         "SoundCreate": {
-          "Title": "Sekvencer: Přehrávání zvuků",
-          "Label": "Povolí hráčům s vybranou a vyšší rolí přehrávat zvuky pomocí "
+          "Title": "Přehrávání zvuků",
+          "Label": "Povolí hráčům s vybranou a vyšší rolí přehrávat zvuky pomocí Přehrávače Sekvenceru."
         },
         "PreloadClients": {
-          "Title": "Sekvencer: Přednačítání pro ostatní",
+          "Title": "Přednačítání pro ostatní",
           "Label": "Povolí hráčům s vybranou a vyšší rolí přednačítat efekty a zvuky pro ostatní hráče."
         },
         "UseSidebarTools": {
-          "Title": "Sekvencer: Použití nástrojů v postranním panelu",
+          "Title": "Nástroje v postranním panelu",
           "Label": "Povolí hráčům s vybranou a vyšší rolí používat nástroje v postranním panelu (také musí mít možnost přehrávat efekty)."
         }
       }
