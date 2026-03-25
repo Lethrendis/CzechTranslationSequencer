@@ -1,5 +1,5 @@
 Changelog
 
-Verze 1.1.0:
+Verze 1.2.0:
 První verze modulu.
-Kompletní překlad Sequenceru 3.6.7.
+Kompletní překlad Sequenceru 3.6.11.
